@@ -1,2 +1,2 @@
 # Columbia_2
-Test text
+Difficult class for no coding experience
