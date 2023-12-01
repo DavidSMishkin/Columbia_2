@@ -1,5 +1,4 @@
-# Columbia_2
-Difficult class for no coding experience test
+# Columbia Homework
 
 my research test
 
